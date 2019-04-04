@@ -1,0 +1,12 @@
+Index: readme.txt
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- readme.txt	(date 1554370982000)
++++ readme.txt	(date 1554371166924)
+@@ -1,1 +1,1 @@
+-使用idea clone项目后提交到git上
+\ No newline at end of file
++怎么新增分支呢 啦啦啦啦啦啦
+\ No newline at end of file
