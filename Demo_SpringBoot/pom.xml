@@ -8,7 +8,7 @@
     <artifactId>Demo_SpringBoot</artifactId>
     <version>1.0-SNAPSHOT</version>
     <properties>
-        <spring.version>4.3.2.RELEASE</spring.version>
+        <spring.version>5.2.22.RELEASE</spring.version>
     </properties>
     <dependencies>
         <!-- springframe start -->
